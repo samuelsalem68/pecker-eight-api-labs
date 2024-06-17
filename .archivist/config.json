@@ -1,0 +1,22 @@
+{
+  "projectId": "92360b19-b911-4908-9cb6-f33de19e2fc7",
+  "ignoredFiles": [
+    ".DS_Store",
+    ".env",
+    ".archivist/",
+    ".idea/",
+    ".vscode/",
+    "env/",
+    "venv/",
+    ".git/",
+    ".gitignore",
+    "__pycache__/",
+    "__init__.py",
+    "dist/",
+    "node_modules/",
+    "package-lock.json",
+    "yarn.lock",
+    "*.config.js",
+    ".next/"
+  ]
+}
